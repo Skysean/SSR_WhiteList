@@ -1,5 +1,7 @@
 # SSR_WhiteList
 
+把国内IP放进去就好的垃圾懒人白名单规则
+
 * 白名单来源于https://github.com/17mon/china_ip_list
 * 参考了大佬的文件https://github.com/leosam1995/My_ACL_Rules
 
