@@ -6,7 +6,33 @@
 
 
 [bypass_list]
+# 一些域名
+(^|\.)w*.com$
+(^|\.)google.cn$
+(^|\.)\w*-cn\w*\.\w*$
+(^|\.)\w*alimama\w*\.\w*$
+(^|\.)\w*alipay\w*\.\w*$
+(^|\.)\w*jdpay\w*\.\w*$
+# TaoBao
+(^|\.)alibaba\.com$
+(^|\.)alicdn\.com$
+(^|\.)aliexpress\.com$
+(^|\.)aliimg\.com$
+(^|\.)alikunlun\.com$
+(^|\.)alipay\.com$
+(^|\.)alipayobjects\.com$
+(^|\.)alisoft\.com$
+(^|\.)aliyun\.com$
+(^|\.)aliyuncdn\.com$
+(^|\.)aliyuncs\.com$
+(^|\.)taobao\.com$
+(^|\.)taobaocdn\.com$
+(^|\.)tbcache\.com$
+(^|\.)tbcdn\.com$
+(^|\.)tmall\.com$
 
+
+# IP地址
 1.0.1.0/24
 1.0.2.0/23
 1.0.8.0/21
