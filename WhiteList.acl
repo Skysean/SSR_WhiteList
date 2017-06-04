@@ -52,19 +52,19 @@
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
 # TaoBao
-(^|\.)alibaba\.com$
+(^|\.)alibaba\.com$,force-remote-dns
 (^|\.)alicdn\.com$
 (^|\.)aliexpress\.com$
 (^|\.)aliimg\.com$
 (^|\.)alikunlun\.com$
-(^|\.)alipay\.com$
+(^|\.)alipay\.com$,force-remote-dns
 (^|\.)alipayobjects\.com$
 (^|\.)alisoft\.com$
 (^|\.)aliyun\.com$
 (^|\.)aliyuncdn\.com$
 (^|\.)aliyuncs\.com$
-(^|\.)taobao\.com$
-(^|\.)taobaocdn\.com$
+(^|\.)taobao\.com$,force-remote-dns
+(^|\.)taobaocdn\.com$,force-remote-dns
 (^|\.)tbcache\.com$
 (^|\.)tbcdn\.com$
 (^|\.)tmall\.com$
