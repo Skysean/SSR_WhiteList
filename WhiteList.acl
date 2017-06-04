@@ -7,7 +7,7 @@
 
 [bypass_list]
 # 一些域名
-(^|\.)w*.com$
+(^|\.)w*.cn$
 (^|\.)google.cn$
 (^|\.)\w*-cn\w*\.\w*$
 (^|\.)\w*alimama\w*\.\w*$
