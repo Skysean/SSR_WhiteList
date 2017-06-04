@@ -1,6 +1,10 @@
-
-#Time:2017-06-03 22:28:29
-
+# 参数解释：
+# [proxy_all] 默认代理-本规则使用
+# [bypass_all] 默认直连
+# [outbound_block_list] 禁止访问列表 
+# [bypass_list] 直连列表 从12行到5271行
+# [proxy_list] 代理列表 
+# [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
 [proxy_all]
 
 
