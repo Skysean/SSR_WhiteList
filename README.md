@@ -3,7 +3,11 @@
 
 不做广告去除（懒
 
-白名单来源于https://github.com/17mon/china_ip_list
-
+*白名单来源于https://github.com/17mon/china_ip_list
 
 请任意使用~
+
+# 下载地址
+
+* Shadowrocket：https://raw.githubusercontent.com/Skysean/SSR_WhiteList/master/ro_whitelist.conf
+* 安卓端SSR：https://raw.githubusercontent.com/Skysean/SSR_WhiteList/master/WhiteList.acl
