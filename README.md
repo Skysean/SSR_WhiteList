@@ -4,6 +4,7 @@
 
 * 白名单来源于https://github.com/17mon/china_ip_list
 * 参考了大佬的文件https://github.com/leosam1995/My_ACL_Rules
+* 以及大佬lhie1的规则https://github.com/lhie1/Surge
 
 包括IOS端的shadowrocket的配置文件和安卓端的SSR的ACL文件
 
