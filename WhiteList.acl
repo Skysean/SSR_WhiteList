@@ -33,7 +33,7 @@
 203.0.113.0/24
 224.0.0.0/3
 # 一些域名
-^.*\.cn$
+.cn
 (^|\.)google.cn$
 (^|\.)\w*-cn\w*\.\w*$
 (^|\.)\w*0x\w*\.\w*$
@@ -52,22 +52,22 @@
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
 # TaoBao
-(^|\.)alibaba\.com$,force-remote-dns
-(^|\.)alicdn\.com$
-(^|\.)aliexpress\.com$
-(^|\.)aliimg\.com$
-(^|\.)alikunlun\.com$
-(^|\.)alipay\.com$,force-remote-dns
-(^|\.)alipayobjects\.com$
-(^|\.)alisoft\.com$
-(^|\.)aliyun\.com$
-(^|\.)aliyuncdn\.com$
-(^|\.)aliyuncs\.com$
-(^|\.)taobao\.com$,force-remote-dns
-(^|\.)taobaocdn\.com$,force-remote-dns
-(^|\.)tbcache\.com$
-(^|\.)tbcdn\.com$
-(^|\.)tmall\.com$
+.alibaba.com,force-remote-dns
+.alicdn.com
+.aliexpress.com
+.aliimg.com
+.alikunlun.com
+.alipay.com,force-remote-dns
+.alipayobjects.com
+.alisoft.com
+.aliyun.com
+.aliyuncdn.com
+.aliyuncs.com
+.taobao.com,force-remote-dns
+.taobaocdn.com,force-remote-dns
+.tbcache.com
+.tbcdn.com
+.tmall.com
 
 intl.target.com
 *v6.facebook.com
