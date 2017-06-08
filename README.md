@@ -8,6 +8,8 @@
 
 包括IOS端的shadowrocket的配置文件和安卓端的SSR的ACL文件
 
+极其简单的土豆丝去广告规则
+
 不做广告去除（懒
 
 请任意使用~
@@ -16,3 +18,4 @@
 
 * Shadowrocket：https://raw.githubusercontent.com/Skysean/SSR_WhiteList/master/ro_whitelist.conf
 * 安卓端SSR：https://raw.githubusercontent.com/Skysean/SSR_WhiteList/master/WhiteList.acl
+* 土豆丝2广告去除：https://raw.githubusercontent.com/Skysean/SSR_WhiteList/master/po_AD.conf
