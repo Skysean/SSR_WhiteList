@@ -70,6 +70,34 @@
 (^|\.)tbcdn\.com$
 (^|\.)tmall\.com$
 
+# Youku & Tudou
+(^|\.)(actives|atm|guanggaoad|hz|iyes|l|lstat|lvip|msg|mobilemsg|passport-log|stat|tdrec|wan|ykatr|ykrec|ykrectab)\.youku\.com$
+(^|\.)(adcontrol|adplay|goods|iwstat|nstat|stat|stats)\.tudou\.com$
+(^|\.)(ad|das|gamex)\.mobile\.youku\.com$
+(^|\.)(dev-push|push|sdk)\.m\.youku\.com$
+(^|\.)(p|r|v)\.l\.youku\.com$
+(^|\.)a-dxk\.play\.api\.3g\.youku\.com$
+(^|\.)ad\.api\.3g(\.tudou\.youku)\.com$
+(^|\.)ad\.api\.mobile\.youku\.com$
+(^|\.)atm\.youku\.com$
+(^|\.)b\.smartvideo\.youku\.com$
+(^|\.)c\.yes\.youku\.com$
+(^|\.)das\.api\.youku\.com$
+(^|\.)dl\.g\.youku\.com$
+(^|\.)e\.stat\.ykimg\.com$
+(^|\.)hudong\.pl\.youku\.com$
+(^|\.)l\.ykimg\.com$
+(^|\.)p-log\.ykimg\.com$
+(^|\.)p\.l\.ykimg\.com$
+(^|\.)s\.p\.youku\.com$
+(^|\.)statis\.api\.3g\.youku\.com$
+(^|\.)store\.tv\.api\.3g\.youku\.com$
+(^|\.)store\.xl\.api\.3g\.youku\.com$
+(^|\.)test\.ott\.youku\.com$
+(^|\.)urchin\.lstat\.youku\.com$
+(^|\.)val\.api\.youku\.com$
+
+
 # Accelerate direct sites
 (^|\.)115\.com$
 (^|\.)115img\.com$
