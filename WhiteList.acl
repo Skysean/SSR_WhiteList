@@ -8,23 +8,6 @@
 [proxy_all]
 
 [remote_dns]
-# TaoBao
-(^|\.)alibaba\.com$
-(^|\.)alicdn\.com$
-(^|\.)aliexpress\.com$
-(^|\.)aliimg\.com$
-(^|\.)alikunlun\.com$
-(^|\.)alipay\.com$
-(^|\.)alipayobjects\.com$
-(^|\.)alisoft\.com$
-(^|\.)aliyun\.com$
-(^|\.)aliyuncdn\.com$
-(^|\.)aliyuncs\.com$
-(^|\.)taobao\.com$
-(^|\.)taobaocdn\.com$
-(^|\.)tbcache\.com$
-(^|\.)tbcdn\.com$
-(^|\.)tmall\.com$
 
 
 [bypass_list]
